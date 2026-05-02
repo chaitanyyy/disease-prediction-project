@@ -1,0 +1,13 @@
+disease_name,model_name,accuracy,f1_score,roc_auc
+Diabetes,"Random Forest",75.32,66.07,84.21
+Diabetes,SVM,75.32,62.75,80.8
+Diabetes,"Gradient Boosting",73.38,65.55,81.16
+"Heart Disease","Random Forest",98.54,98.52,100
+"Heart Disease","Gradient Boosting",93.17,93.33,98.07
+"Heart Disease","Logistic Regression",79.51,81.08,87.7
+"Kidney Disease","Random Forest",100,100,100
+"Kidney Disease","Gradient Boosting",100,100,100
+"Liver Disease","Random Forest",74.36,83.33,80.27
+"Liver Disease","Gradient Boosting",71.79,81.97,75.4
+Parkinson's,"Random Forest",94.87,96.97,90.85
+Parkinson's,"Gradient Boosting",94.87,96.97,88.39

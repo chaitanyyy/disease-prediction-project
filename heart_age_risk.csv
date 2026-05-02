@@ -1,0 +1,5 @@
+age_group,total,disease_count,risk_pct
+"Under 40",57,42,73.7
+40-50,237,157,66.2
+50-60,422,206,48.8
+"Over 60",309,121,39.2
